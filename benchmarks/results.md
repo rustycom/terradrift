@@ -3,7 +3,7 @@
 | Metric | Value |
 |---|---|
 | Modules scanned | 1 |
-| Median scan time / module | 0.33 ms |
+| Median scan time / module | 0.32 ms |
 | Total misconfigs detected | 4 |
-| Last updated (UTC) | 2026-11-18T13:38:28+00:00 |
+| Last updated (UTC) | 2026-11-19T14:05:28+00:00 |
 
